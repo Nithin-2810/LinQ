@@ -1,0 +1,7 @@
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Linq\Linqex\Linqex\bin\Debug\Linqex.exe.config
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Linq\Linqex\Linqex\bin\Debug\Linqex.exe
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Linq\Linqex\Linqex\bin\Debug\Linqex.pdb
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Linq\Linqex\Linqex\obj\Debug\Linqex.csproj.AssemblyReference.cache
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Linq\Linqex\Linqex\obj\Debug\Linqex.csproj.CoreCompileInputs.cache
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Linq\Linqex\Linqex\obj\Debug\Linqex.exe
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Linq\Linqex\Linqex\obj\Debug\Linqex.pdb
